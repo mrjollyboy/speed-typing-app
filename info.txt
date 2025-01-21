@@ -1,0 +1,9 @@
+used vite for react and tailwindcss
+ 
+ using framer motion library for the motion and shi in app 
+
+ using faker.ks library to generate random data (in this case, words for the application)
+
+ using classnames library to join classnames conditons together 
+
+ using rawck icons library for icons made for react
